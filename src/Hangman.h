@@ -1,9 +1,9 @@
 /*
- * Hangman.h
- *
- *  Created on: Mar 4, 2016
- *      Author: sheastyer
- */
+* Hangman.h
+*
+*  Created on: Mar 4, 2016
+*      Author: sheastyer
+*/
 
 #ifndef HANGMAN_H_
 #define HANGMAN_H_
@@ -33,4 +33,4 @@ private:
 	Vector<string> letterWords;
 };
 
-#endif /* HANGMAN_H_ */
+#endif /* HANGMAN_H_ */#pragma once
